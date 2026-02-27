@@ -1,0 +1,1 @@
+{"_schema": "achievement", "_version": "1.0", "_description": "Append-only career wins log", "_fields": {"date": "ISO date YYYY-MM-DD", "type": "project|skill|recognition|impact|learning", "title": "Short description", "details": "What happened, why it matters", "evidence": "Links, metrics, references (optional)"}}

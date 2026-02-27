@@ -1,0 +1,30 @@
+# Career Goals and OKRs
+# Update quarterly
+
+current_quarter: "Q1 2026"
+
+objectives:
+  - name: "Objective 1: [Your objective here]"
+    key_results:
+      - "[Key result 1]"
+      - "[Key result 2]"
+      - "[Key result 3]"
+  
+  - name: "Objective 2: [Your objective here]"
+    key_results:
+      - "[Key result 1]"
+      - "[Key result 2]"
+
+# Example:
+# objectives:
+#   - name: "Improve data pipeline reliability"
+#     key_results:
+#       - "Reduce pipeline failures by 50%"
+#       - "Implement automated alerting for all critical jobs"
+#       - "Document runbooks for top 10 failure scenarios"
+#   
+#   - name: "Expand technical skills"
+#     key_results:
+#       - "Complete Go certification"
+#       - "Build one production service in Go"
+#       - "Contribute to 3 open source projects"
